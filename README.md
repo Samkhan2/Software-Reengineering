@@ -2,7 +2,7 @@
 Decompilation of Files, Code Analysis &amp; Control Flow 
 
 Hello there!
-I have upploaded some of the files that are been decompiled from apk, .exe and mac applications.
+I have uploaded some of the files that are been decompiled from apk, .exe and mac applications.
 I have used Ghidora for the decompilation and code analysis, I decompiled files to C/C++ language.
 Firstly i am using TempleRun apk, there are several steps to decompile any file.
  1. First Run ghidora.
